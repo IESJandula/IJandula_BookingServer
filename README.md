@@ -1,2 +1,2 @@
-# Reaktor_BookingServer
+# IJandula_BookingServer
 Servidor de reservas de carritos y aulas
