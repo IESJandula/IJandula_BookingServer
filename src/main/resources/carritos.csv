@@ -1,0 +1,11 @@
+Nombre,Apellido,DNI,Marca,Piso,Fecha,Tipo,Carrito
+Alice,Johnson,11111111C,HP,1,2024/04/14 10:15,Portatil,1
+Bob,Williams,22222222D,Lenovo,1,2024/04/15 10:15,Portatil,2
+Charlie,Brown,33333333E,HP,1,2024/04/16 10:15,Portatil,1
+David,Moore,44444444F,Lenovo,1,2024/04/17 10:15,Portatil,2
+Emma,Davis,55555555G,Lenovo,1,2024/04/18 10:15,Portatil,2
+Frank,Miller,66666666H,HP,1,2024/04/19 10:15,Portatil,1
+Grace,Wilson,77777777I,Apple,2,2024/04/20 10:15,Tablet,1
+Henry,Jones,88888888J,Huawei,2,2024/04/21 10:15,Tablet,1
+Isabella,Taylor,99999999K,Apple,2,2024/04/22 10:15,Tablet,1
+Jack,Anderson,10101010L,Gigabyte,2,2024/04/23 10:15,Tablet,1

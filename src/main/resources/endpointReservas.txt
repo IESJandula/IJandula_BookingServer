@@ -1,0 +1,4 @@
+Selección y confirmación de recursos (aulas, carritos de tablets, carritos de ordenadores): se deberá indicar el nombre del recurso a reservar, 
+la fecha, el nombre del profesor, la franja horaria y el tipo de reserva (puntual, diaria o semanal). Una vez enviados estos datos,
+se almacenarán definitivamente las selecciones anteriores. 
+todos en uno con un required false por si quiere hacer varias reservas a la vez

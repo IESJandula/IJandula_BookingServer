@@ -1,0 +1,21 @@
+-----POST-----
+http://localhost:8080/bookings/classroom
+http://localhost:8080/bookings/trolley
+http://localhost:8080/bookings/holidays
+http://localhost:8080/bookings/bookingClassroom?fecha=2024/04/19&hora=12:45&aula=2.11&nombre=miguel&apellido=rios&dni=111222333O
+http://localhost:8080/bookings/bookingTrolley?fecha=2024/04/20&hora=21:00&marca=portatil1&nombre=miguel&apellido=rios&dni=111222333O&piso=primero
+
+-----GET-----
+http://localhost:8080/bookings/allbookings
+http://localhost:8080/bookings/classroom
+http://localhost:8080/bookings/trolleytablet
+http://localhost:8080/bookings/trolleyportatil
+http://localhost:8080/bookings/holidays
+
+-----DELETE-----
+http://localhost:8080/bookings/cancelTrolley?fecha=2024/04/14&hora=10:15&marca=portatil1&piso=primero
+http://localhost:8080/bookings/cancelClassroom?fecha=2024/04/17&hora=10:15&aula=2.11
+
+en el borrado poner periodos para borrar de forma semanal mensual etc
+
+Hay que hacer: booking/configDates fecha inicio y final de curso
